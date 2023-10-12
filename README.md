@@ -39,6 +39,9 @@ São links que permitem ao cliente navegar pela API de forma dinâmica, então o
 ![image](https://github.com/Ueverson/api-rest/assets/89094981/93a6f30b-c919-4514-9eac-2ed526b25dc7)
 
 
+### :heavy_check_mark: Stateless
+É a capacidade que um servidor tem de processar requisições de um cliente sem precisar usufruir de nenhum dado já previamente guardado nele. Logo, o envio de dados ao servidor deve conter toda informação necessária para ser compreendida e processada. Em suma, o estado quem mantém é o cliente e não o servidor.
+
 
 
 
